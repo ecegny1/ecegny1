@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @ecegny1, a passionate data scientist!
+## 👋 Hi, I’m @ecegny1.
 
 👀 I’m interested in Financial Analysis, Data Science, Machine Learning, and Software Development.
 
