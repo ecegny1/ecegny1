@@ -6,8 +6,8 @@
 
 💞️ I’m looking to collaborate on open-source data science projects or AI-related applications.
 
-📫 How to reach me: You can email me at ecegny5@gmail.com or reach me on LinkedIn: [@ecegny1](https://www.linkedin.com/in/ecegny1)
+📫 How to reach me: You can email me at ecegny5@gmail.com or reach me on LinkedIn: [@ecegny1](https://www.linkedin.com/in/ecegny1).
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/Her.
 
 ⚡ Fun fact: I love painting mandalas and  writing blog posts.
