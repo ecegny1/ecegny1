@@ -18,10 +18,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ### 🏆 GitHub Başarılarım:
-![trophy](https://github-profile-trophy.vercel.app/?username=ecegny1&theme=onestar&no-frame=true&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ecegny1&theme=flat&no-frame=true&margin-w=10&margin-h=10)
 
-### 📊 GitHub Aktivite Grafiğim:
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=react)
 
 
 ## 📊 GitHub İstatistiklerim:
