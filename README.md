@@ -20,6 +20,9 @@
 ### 🏆 GitHub Başarılarım:
 ![trophy](https://github-profile-trophy.vercel.app/?username=ecegny1&theme=onestar&no-frame=true&margin-w=15)
 
+### 📊 GitHub Aktivite Grafiğim:
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=react)
+
 
 ## 📊 GitHub İstatistiklerim:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecegny1&layout=compact)](https://github.com/ecegny1/github-readme-stats)
