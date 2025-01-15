@@ -18,4 +18,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## 📊 GitHub İstatistiklerim:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)](https://github.com/KULLANICI_ADIN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecegny1&layout=compact)](https://github.com/ecegny1/github-readme-stats)
