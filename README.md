@@ -17,5 +17,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+### 🏆 GitHub Başarılarım:
+![trophy](https://github-profile-trophy.vercel.app/?username=ecegny1&theme=onestar&no-frame=true&margin-w=15)
+
+
 ## 📊 GitHub İstatistiklerim:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecegny1&layout=compact)](https://github.com/ecegny1/github-readme-stats)
